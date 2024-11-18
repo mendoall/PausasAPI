@@ -1,0 +1,13 @@
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\bin\Debug\net8.0\MundoGluck.Domain.deps.json
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\bin\Debug\net8.0\MundoGluck.Domain.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\bin\Debug\net8.0\MundoGluck.Domain.pdb
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.csproj.AssemblyReference.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.AssemblyInfoInputs.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.AssemblyInfo.cs
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.sourcelink.json
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\refint\MundoGluck.Domain.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\MundoGluck.Domain.pdb
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Domain\obj\Debug\net8.0\ref\MundoGluck.Domain.dll

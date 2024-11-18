@@ -1,0 +1,18 @@
+meta {
+  name: Login
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://localhost:7085/v1/api/Identity/login
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "email": "admin@gmail.com",
+    "password": "Password1!"
+  }
+}

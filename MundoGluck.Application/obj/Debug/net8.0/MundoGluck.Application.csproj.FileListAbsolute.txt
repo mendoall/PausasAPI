@@ -1,0 +1,16 @@
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\bin\Debug\net8.0\MundoGluck.Application.deps.json
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\bin\Debug\net8.0\MundoGluck.Application.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\bin\Debug\net8.0\MundoGluck.Application.pdb
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\bin\Debug\net8.0\MundoGluck.Domain.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\bin\Debug\net8.0\MundoGluck.Domain.pdb
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.csproj.AssemblyReference.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.AssemblyInfoInputs.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.AssemblyInfo.cs
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.csproj.CoreCompileInputs.cache
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.sourcelink.json
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGlu.970E0612.Up2Date
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\refint\MundoGluck.Application.dll
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\MundoGluck.Application.pdb
+C:\Users\ajmdz\Source\Repos\MundoGluck\mundogluck-api\MundoGluck.Application\obj\Debug\net8.0\ref\MundoGluck.Application.dll

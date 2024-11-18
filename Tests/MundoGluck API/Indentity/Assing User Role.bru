@@ -1,0 +1,18 @@
+meta {
+  name: Assing User Role
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{base_url}}/registro/userRole
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "userEmail": "test@gmail.com",
+    "roleName": "User"
+  }
+}

@@ -1,0 +1,6 @@
+@MundoGluck.Api_HostAddress = https://localhost:12345678
+
+GET {{MundoGluck.Api_HostAddress}}/v1/api/empresas
+Accept: application/json
+
+###
